@@ -1,0 +1,370 @@
+{
+  "type": "FeatureCollection",
+  "name": "input_fields",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "F001",
+        "field_name": "North_Alfalfa_Block",
+        "crop_type": "alfalfa",
+        "area_ha": 45.2,
+        "soil_type": "clay_loam",
+        "yield_2021": 18.2, "yield_2022": 19.1, "yield_2023": 17.8,
+        "yield_2024": 20.3, "yield_2025": 19.7,
+        "irrigation_type": "drip",
+        "slope_pct": 0.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-115.5200, 33.0500],
+          [-115.5160, 33.0500],
+          [-115.5160, 33.0540],
+          [-115.5200, 33.0540],
+          [-115.5200, 33.0500]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "F002",
+        "field_name": "East_Cotton_Plot",
+        "crop_type": "cotton",
+        "area_ha": 62.7,
+        "soil_type": "sandy_loam",
+        "yield_2021": 1.8, "yield_2022": 2.1, "yield_2023": 1.6,
+        "yield_2024": 2.3, "yield_2025": 2.0,
+        "irrigation_type": "furrow",
+        "slope_pct": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-115.5100, 33.0480],
+          [-115.5050, 33.0480],
+          [-115.5050, 33.0535],
+          [-115.5100, 33.0535],
+          [-115.5100, 33.0480]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "F003",
+        "field_name": "South_Wheat_Field",
+        "crop_type": "wheat",
+        "area_ha": 38.4,
+        "soil_type": "silty_clay",
+        "yield_2021": 4.2, "yield_2022": 4.8, "yield_2023": 3.9,
+        "yield_2024": 5.1, "yield_2025": 4.6,
+        "irrigation_type": "sprinkler",
+        "slope_pct": 1.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-115.5180, 33.0400],
+          [-115.5140, 33.0400],
+          [-115.5140, 33.0450],
+          [-115.5180, 33.0450],
+          [-115.5180, 33.0400]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "F004",
+        "field_name": "Central_Corn_Block",
+        "crop_type": "corn",
+        "area_ha": 55.9,
+        "soil_type": "loam",
+        "yield_2021": 9.8, "yield_2022": 10.5, "yield_2023": 8.9,
+        "yield_2024": 11.2, "yield_2025": 10.8,
+        "irrigation_type": "center_pivot",
+        "slope_pct": 0.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-115.5280, 33.0460],
+          [-115.5240, 33.0460],
+          [-115.5240, 33.0510],
+          [-115.5280, 33.0510],
+          [-115.5280, 33.0460]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "F005",
+        "field_name": "West_Lettuce_Plot",
+        "crop_type": "lettuce",
+        "area_ha": 22.1,
+        "soil_type": "sandy",
+        "yield_2021": 28.5, "yield_2022": 31.2, "yield_2023": 27.8,
+        "yield_2024": 33.1, "yield_2025": 30.6,
+        "irrigation_type": "drip",
+        "slope_pct": 0.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-115.5350, 33.0490],
+          [-115.5320, 33.0490],
+          [-115.5320, 33.0520],
+          [-115.5350, 33.0520],
+          [-115.5350, 33.0490]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "F006",
+        "field_name": "Northeast_Alfalfa",
+        "crop_type": "alfalfa",
+        "area_ha": 41.8,
+        "soil_type": "clay",
+        "yield_2021": 17.5, "yield_2022": 18.9, "yield_2023": 16.8,
+        "yield_2024": 19.5, "yield_2025": 18.3,
+        "irrigation_type": "drip",
+        "slope_pct": 0.9
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-115.5050, 33.0550],
+          [-115.5010, 33.0550],
+          [-115.5010, 33.0590],
+          [-115.5050, 33.0590],
+          [-115.5050, 33.0550]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "F007",
+        "field_name": "Bermuda_Grass_Block",
+        "crop_type": "alfalfa",
+        "area_ha": 29.3,
+        "soil_type": "loamy_sand",
+        "yield_2021": 15.2, "yield_2022": 16.8, "yield_2023": 14.9,
+        "yield_2024": 17.2, "yield_2025": 16.1,
+        "irrigation_type": "flood",
+        "slope_pct": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-115.5150, 33.0560],
+          [-115.5110, 33.0560],
+          [-115.5110, 33.0595],
+          [-115.5150, 33.0595],
+          [-115.5150, 33.0560]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "F008",
+        "field_name": "South_Cotton_Field",
+        "crop_type": "cotton",
+        "area_ha": 71.4,
+        "soil_type": "clay_loam",
+        "yield_2021": 2.0, "yield_2022": 2.4, "yield_2023": 1.8,
+        "yield_2024": 2.6, "yield_2025": 2.2,
+        "irrigation_type": "furrow",
+        "slope_pct": 0.6
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-115.5220, 33.0350],
+          [-115.5160, 33.0350],
+          [-115.5160, 33.0400],
+          [-115.5220, 33.0400],
+          [-115.5220, 33.0350]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "F009",
+        "field_name": "Carrot_Row_Crop",
+        "crop_type": "carrots",
+        "area_ha": 18.6,
+        "soil_type": "sandy",
+        "yield_2021": 35.2, "yield_2022": 38.1, "yield_2023": 33.5,
+        "yield_2024": 40.2, "yield_2025": 37.8,
+        "irrigation_type": "drip",
+        "slope_pct": 0.1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-115.5300, 33.0430],
+          [-115.5270, 33.0430],
+          [-115.5270, 33.0460],
+          [-115.5300, 33.0460],
+          [-115.5300, 33.0430]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "F010",
+        "field_name": "Tomato_Processing_Block",
+        "crop_type": "tomatoes",
+        "area_ha": 33.7,
+        "soil_type": "silty_loam",
+        "yield_2021": 65.8, "yield_2022": 71.3, "yield_2023": 62.4,
+        "yield_2024": 74.8, "yield_2025": 69.2,
+        "irrigation_type": "drip",
+        "slope_pct": 0.7
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-115.5400, 33.0520],
+          [-115.5360, 33.0520],
+          [-115.5360, 33.0555],
+          [-115.5400, 33.0555],
+          [-115.5400, 33.0520]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "F011",
+        "field_name": "Wheat_Reserve_Block",
+        "crop_type": "wheat",
+        "area_ha": 48.2,
+        "soil_type": "clay",
+        "yield_2021": 4.5, "yield_2022": 5.0, "yield_2023": 4.1,
+        "yield_2024": 5.3, "yield_2025": 4.8,
+        "irrigation_type": "sprinkler",
+        "slope_pct": 1.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-115.5080, 33.0420],
+          [-115.5030, 33.0420],
+          [-115.5030, 33.0475],
+          [-115.5080, 33.0475],
+          [-115.5080, 33.0420]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "F012",
+        "field_name": "Mixed_Vegetable_Block",
+        "crop_type": "lettuce",
+        "area_ha": 15.9,
+        "soil_type": "sandy_loam",
+        "yield_2021": 29.1, "yield_2022": 32.4, "yield_2023": 27.3,
+        "yield_2024": 34.5, "yield_2025": 31.8,
+        "irrigation_type": "drip",
+        "slope_pct": 0.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-115.5250, 33.0570],
+          [-115.5220, 33.0570],
+          [-115.5220, 33.0600],
+          [-115.5250, 33.0600],
+          [-115.5250, 33.0570]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "F013",
+        "field_name": "Soybean_Test_Plot",
+        "crop_type": "soybean",
+        "area_ha": 27.4,
+        "soil_type": "loam",
+        "yield_2021": 3.1, "yield_2022": 3.4, "yield_2023": 2.9,
+        "yield_2024": 3.7, "yield_2025": 3.3,
+        "irrigation_type": "center_pivot",
+        "slope_pct": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-115.5330, 33.0380],
+          [-115.5295, 33.0380],
+          [-115.5295, 33.0415],
+          [-115.5330, 33.0415],
+          [-115.5330, 33.0380]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "F014",
+        "field_name": "Corn_Silage_Block",
+        "crop_type": "corn",
+        "area_ha": 66.3,
+        "soil_type": "clay_loam",
+        "yield_2021": 42.5, "yield_2022": 45.8, "yield_2023": 39.2,
+        "yield_2024": 48.1, "yield_2025": 44.7,
+        "irrigation_type": "center_pivot",
+        "slope_pct": 0.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-115.5450, 33.0440],
+          [-115.5395, 33.0440],
+          [-115.5395, 33.0510],
+          [-115.5450, 33.0510],
+          [-115.5450, 33.0440]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "F015",
+        "field_name": "Alfalfa_Seed_Production",
+        "crop_type": "alfalfa",
+        "area_ha": 52.1,
+        "soil_type": "silty_clay",
+        "yield_2021": 16.8, "yield_2022": 18.2, "yield_2023": 15.9,
+        "yield_2024": 19.1, "yield_2025": 17.6,
+        "irrigation_type": "drip",
+        "slope_pct": 0.6
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-115.5180, 33.0620],
+          [-115.5130, 33.0620],
+          [-115.5130, 33.0670],
+          [-115.5180, 33.0670],
+          [-115.5180, 33.0620]
+        ]]
+      }
+    }
+  ]
+}

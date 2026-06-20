@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+env/
+venv/
+.venv/
+
+# Output CSVs and models
+*_features.csv
+feature_matrix*.csv
+*.pkl
+*.joblib
+*.png
+
+# Geospatial
+*.shp
+*.dbf
+*.shx
+*.prj
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
