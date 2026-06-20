@@ -225,5 +225,5 @@ parallelizable using Dask or Spark — each field's features are independent.
 
 ---
 
-*Emmanuel Oyekanlu — Principal Data Engineer | Geospatial Feature Engineering for Precision Agriculture*
+*Emmanuel Oyekanlu — Principal AI/Data Solutions Engineere*
 
