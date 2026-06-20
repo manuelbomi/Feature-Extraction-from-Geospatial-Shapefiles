@@ -1,5 +1,5 @@
 # Feature Extraction from Geospatial Shapefiles
-### Author: Emmanuel Oyekanlu — Principal Data Engineer
+### Author: Emmanuel Oyekanlu — Principal AI/Data Solutions Engineer
 
 ---
 
